@@ -1,1 +1,1 @@
-# Chat app using Firebase, React-Chat-Engine, React JS
+# Chat app using Firebase authentication, React-Chat-Engine, React JS
